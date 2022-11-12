@@ -30,14 +30,10 @@ Under Mars Rover Photos you can see image data collected by NASA's Curiosity, Op
 
 <a href='https://sergeyshurkhovetckii.github.io/Space.github.io/'>Template-live<a>
 
-
-
-
-
 <h2>My contacts</h2>
 
 <a href="https://t.me/Shurkhovetskii_Sergey">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
 <a href="mailto:sshurkhovetskii@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/sergey-shurkhovetskii-13183a256/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
