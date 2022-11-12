@@ -1,4 +1,9 @@
 ## SpaceY 
+![GitHub issues:](https://img.shields.io/github/issues/SergeyShurkhovetckii/Space.github.io)
+![GitHub forks:](https://img.shields.io/github/forks/SergeyShurkhovetckii/Space.github.io)
+![GitHub stars:](https://img.shields.io/github/stars/SergeyShurkhovetckii/Space.github.io)
+![GitHub license:](https://img.shields.io/github/license/SergeyShurkhovetckii/Space.github.io)
+![Twitter:](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FSergeyShurkhovetckii%2FSpace.github.io)
 
 ## Project SpaceY 🖥
 
